@@ -32,7 +32,7 @@ Before we can begin the analysis, make sure that the data is cleaned properly. W
 A calculated field with the name Revenue has to be created such that:
 _Revenue = (Unit Price * Quantity)_
 
-## **Process:**
+# **Process:**
 
 1. For the first inquiry, we would need to create a line chart and place the invoice date on the x-axis and the revenue on the y-axis. To calculate the revenue, you would need to multiply Quantity by Unit Price. Once the revenue field is calculated, we can use it to view the trend of revenue.
 
