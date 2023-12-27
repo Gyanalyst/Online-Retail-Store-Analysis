@@ -54,17 +54,17 @@ _• The data is incomplete for the month of December, therefore, no conclusion 
 
 **2. Revenue Generation from Top Countries and Customers:**
 
-_•This data does not include the UK as the country already has high demand and we’ve been told you’re more focused on the countries where demand can be increased. The analysis shows that countries such as the Netherlands, Ireland, Germany and France have high volumes of units bought and revenue generated. It is suggested that these countries should be focused on to ensure that measures are taken to capture these markets even more._
+_• This data does not include the UK as the country already has high demand and we’ve been told you’re more focused on the countries where demand can be increased. The analysis shows that countries such as the Netherlands, Ireland, Germany and France have high volumes of units bought and revenue generated. It is suggested that these countries should be focused on to ensure that measures are taken to capture these markets even more._
 
-_•The Netherlands stands out as the highest revenue-generating country, aligning with its high quantity sold._
+_• The Netherlands stands out as the highest revenue-generating country, aligning with its high quantity sold._
 
-_•A single customer accounts for the highest revenue, emphasizing the importance of retaining and satisfying high-value customers._
+_• A single customer accounts for the highest revenue, emphasizing the importance of retaining and satisfying high-value customers._
 
-_•The data shows that there is not much of a difference between the purchases made by the top 10 customers. The highest revenue generating customer only purchased 17% more than the 2nd highest which shows that the business is not relying only on a few customers to generate the revenue. This shows that the bargaining power of customers is low and the business is in a good position._
+_• The data shows that there is not much of a difference between the purchases made by the top 10 customers. The highest revenue generating customer only purchased 17% more than the 2nd highest which shows that the business is not relying only on a few customers to generate the revenue. This shows that the bargaining power of customers is low and the business is in a good position._
 
 **3. Regional Demand Insights:**
 
-_It can be seen that apart from the UK, countries such as Netherlands, Ireland, Germany, France and Australia are generating high revenue and the company should invest more in these areas to increase demand for products. The map also shows that most of the sales are only in the European region with very few in the American region. Africa and Asia do not have any demand for the products, along with Russia. Consider expanding marketing efforts or exploring partnerships to tap into other regions._ 
+_• It can be seen that apart from the UK, countries such as Netherlands, Ireland, Germany, France and Australia are generating high revenue and the company should invest more in these areas to increase demand for products. The map also shows that most of the sales are only in the European region with very few in the American region. Africa and Asia do not have any demand for the products, along with Russia. Consider expanding marketing efforts or exploring partnerships to tap into other regions._ 
 
 # **Recommendation**:
 Considering the revenue variations across months and countries, it's suggested to:
