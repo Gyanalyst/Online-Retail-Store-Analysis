@@ -66,7 +66,9 @@ _3. Explore expansion opportunities beyond European regions to diversify market 
 https://public.tableau.com/shared/JZP93FM43?:display_count=n&:origin=viz_share_link
 
 # Contact:
+
 **LinkedIn:** https://www.linkedin.com/in/gyan-ashish/
+
 **Email:** gyanashish753@gmail.com
 
 _Thank you!_
