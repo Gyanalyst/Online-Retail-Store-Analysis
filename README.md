@@ -67,10 +67,13 @@ _• The data shows that there is not much of a difference between the purchases
 _• It can be seen that apart from the UK, countries such as Netherlands, Ireland, Germany, France and Australia are generating high revenue and the company should invest more in these areas to increase demand for products. The map also shows that most of the sales are only in the European region with very few in the American region. Africa and Asia do not have any demand for the products, along with Russia. Consider expanding marketing efforts or exploring partnerships to tap into other regions._ 
 
 # **Recommendation**:
+
 Considering the revenue variations across months and countries, it's suggested to:
 
 _1. Devise targeted marketing campaigns aligned with peak months for maximum impact._
+
 _2. Implement strategies to maintain strong relationships with high-value customers for sustained revenue growth._
+
 _3. Explore expansion opportunities beyond European regions to diversify market presence and enhance overall sales._
 
 # Tableau Public Link:
