@@ -22,15 +22,13 @@ We'll need to draft a set of questions that each business leader could ask and w
 
 4. The CEO is looking to gain insights into the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. 
 
-**Data cleaning**
-
+## **Data cleaning**
 Before we can begin the analysis, make sure that the data is cleaned properly. We have noticed that the data contains some returns to the store which are provided in negative quantities and there are unit prices that were input in error. We will need to perform the following steps to clean this data:	
 
 1. Create a check that the quantity should not be below 1 unit
 2. Create a check that the Unit price should not be below $0
 
-**Data Preparation**
-
+## **Data Preparation**
 A calculated field with the name Revenue has to be created such that:
 _Revenue = (Unit Price * Quantity)_
 
